@@ -21,7 +21,7 @@ Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it
 ----
 
   <p align="center">
-  <a href="https://github.com/afnanplk/pinkymwol ">
+  <a href="https://github.com/Yardley007/pinkymwol ">
     <img src="https://img.shields.io/github/repo-size/afnanplk/lastpink?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
