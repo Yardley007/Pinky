@@ -11,7 +11,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it public
+Project created by <a href="https://github.com/Yardley007>afnanplk</a> to make it public
     <br>
        | © |
         Reserved |
@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/afnanplk">afnanplk</a> to make it
   <a href="https://github.com/Yardley007/pinkymwol ">
     <img src="https://img.shields.io/github/repo-size/afnanplk/lastpink?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/afnanplk/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
+<a href="https://github.com/Yardley007/followers"><img title="Followers" src="https://img.shields.io/github/followers/afnanplk?color=red&style=flat-circle"></a>
 <a href="https://github.com/afnanplk/lastpink/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/afnanplk/lastpink?color=red&style=flat-square"></a>
 <a href="https://github.com/afnanplk/lastpink/network/members"><img title="Forks" src="https://img.shields.io/github/forks/afnanplk/lastpink?color=red&style=flat-square"></a>
 <a href="https://github.com/afnanplk/lastpink/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/afnanplk/lastpink?label=Watchers&color=red&style=flat-square"></a>
@@ -55,7 +55,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@afnanplk/PinkyMwol-QR)
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://gist.github.com/afnanplk/f34ed6b03429ba67d46c709f841f69f4)   
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://gist.github.com/Yardley007/f34ed6b03429ba67d46c709f841f69f4)   
  
   </div>
  
